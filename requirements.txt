@@ -1,0 +1,5 @@
+llama-index==0.6.12
+sentence_transformers
+python-dotenv
+ipykernel
+bs4
